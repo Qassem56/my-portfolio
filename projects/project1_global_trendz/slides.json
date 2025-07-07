@@ -1,0 +1,26 @@
+[
+  {
+    "image": "projects/project1_global_trendz/assets/excel_before.png",
+    "description": "📉 This is how the raw data looked before cleaning – messy, scattered, and hard to interpret. Real-world data often comes like this and needs strong preprocessing to make sense of it."
+  },
+  {
+    "image": "projects/project1_global_trendz/assets/python.png",
+    "description": "⚙️ I use Python to clean, transform, and visualize data with high precision and interactivity — all in real-time for faster decisions."
+  },
+  {
+    "image": "projects/project1_global_trendz/assets/excel_after.png",
+    "description": "✅ After cleaning, the dataset is now well-organized and structured — making it ready for deep insights and easy visualizations."
+  },
+  {
+    "image": "projects/project1_global_trendz/assets/1.png",
+    "description": "📌 This screen shows the main dashboard layout with KPIs on top and interactive charts below, helping business managers quickly grasp performance."
+  },
+  {
+    "image": "projects/project1_global_trendz/assets/2.png",
+    "description": "🔍 Attention to detail is critical, so each insight is supported with high-resolution, clearly labeled visuals that highlight what truly matters."
+  },
+  {
+    "image": "projects/project1_global_trendz/assets/3.png",
+    "description": "📊 Each project includes filters to help users drill down into specific data. Also, clean Excel files and a polished project PDF summary are available for download for full transparency and usability."
+  }
+]
